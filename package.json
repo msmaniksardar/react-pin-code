@@ -1,8 +1,8 @@
 {
-  "name": "react-pin-code",
+  "name": "react-pin-code-dev",
   "version": "1.0.0",
   "description": "react pin code package for manage opt verify",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
