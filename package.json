@@ -1,0 +1,24 @@
+{
+  "name": "react-pin-code",
+  "version": "1.0.0",
+  "description": "react pin code package for manage opt verify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msmaniksardar/react-pin-code.git"
+  },
+  "keywords": [
+    "react",
+    "pin",
+    "code"
+  ],
+  "author": "Manik Sardar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msmaniksardar/react-pin-code/issues"
+  },
+  "homepage": "https://github.com/msmaniksardar/react-pin-code#readme"
+}
